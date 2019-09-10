@@ -1,1 +1,1 @@
-Hello, Welcome to great leaders of DevOps
+Hello, Welcome to great leaders of Devops
